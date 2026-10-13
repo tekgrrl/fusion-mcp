@@ -1,0 +1,13 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "addin",
+	"id": "7b0f6a3e-2c4d-4e0a-9a51-3d8f1c5e9b42",
+	"author": "",
+	"description": {
+		"": "Local bridge that lets an MCP server drive Fusion over localhost."
+	},
+	"version": "0.1.0",
+	"runOnStartup": true,
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
